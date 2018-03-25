@@ -1,0 +1,1 @@
+c:\python3.6\python.exe c:\webcam.py %*
